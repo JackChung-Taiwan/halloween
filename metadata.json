@@ -1,0 +1,5 @@
+{
+  "name": "Halloween Word Slasher",
+  "description": "An interactive Halloween-themed educational game where players slash through falling cards to identify English words. Features spooky visuals, speech synthesis, and neon saber effects.",
+  "requestFramePermissions": []
+}
